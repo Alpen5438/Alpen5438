@@ -1,4 +1,4 @@
-![Alpen5438](img/github-header-banner.png)
+![Alpen5438](img/github-profile.jpeg)
 
 ![Rexxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpen5438&show_icons=true&theme=tokyonight)
 
