@@ -6,7 +6,7 @@
 
 ![Rexxy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpen5438&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)- 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,wordpress,windows,wasm,vscode,unity,twitter,solidity,sqlite,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,windows,wasm,vscode,unity,twitter,solidity,sqlite,replit,react,r,pug,powershell,pkl,php,ps,perl,nodejs)](https://skillicons.dev)
 
 ###
 
